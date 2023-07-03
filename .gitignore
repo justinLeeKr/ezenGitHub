@@ -1,9 +1,7 @@
-코난 쇼핑몰 오픈 소식 !!!
+#logs
+logs*.logs
+# Dummies
+dummies/
 
 
-이상해요
-^[[200~https://github.com/justinLeeKr/ezenGitHub.git~
-
-https://github.com/justinLeeKr/ezenGitHub.git
-
-https://github.com/justinLeeKr/ezenGitHub.git
+#Runtime data
